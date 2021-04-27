@@ -330,7 +330,6 @@ ul.row {
 
 .card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
-    transition: var(–transition-duration) var(transition-cubic-bezier);
 }
 
 .card-work .card-title {
