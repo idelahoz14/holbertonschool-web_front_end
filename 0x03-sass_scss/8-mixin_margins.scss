@@ -1,8 +1,9 @@
-/* Mixing declaration */
+/* Mixin declations */
 
 @mixin body {
     margin-left: 10px;
     margin-right: 10px; }
   
-div { 
-    @include body; }
+@mixin div {
+    margin-left: 15px;
+    margin-right: 15px; }
