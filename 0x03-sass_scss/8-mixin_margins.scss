@@ -6,11 +6,9 @@
 }
 
 body {
-    @include margin-left(10px);
-    @include margin-right(10px);
+    @include margins(10px);
 }
 
 div {
-    @include margin-left(15px);
-    @include margin-right(15px);
+    @include margins(15px);
 }
