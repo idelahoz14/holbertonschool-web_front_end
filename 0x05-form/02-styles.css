@@ -649,7 +649,7 @@
   /*** FORM ***/
   /* Comment section
     ============================= */
-
+  
   .post-comments {
     width: 80%;
     margin: 10rem 0 0 auto;
@@ -662,7 +662,7 @@
 
   /* Basic form
     ============================= */
-    
+
   form {
     display: flex;
     flex-direction: column;
@@ -673,7 +673,7 @@
   fieldset {
     display: flex;
     flex-direction: column;
-    justify-content:flex-start;
+    justify-content: flex-start;
     border: none;
     padding: 0 0 2rem;
   }
