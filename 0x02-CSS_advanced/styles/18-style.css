@@ -36,7 +36,7 @@
     --nav-item-letter-spacing: 0.04rem;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem 0;
-    --nav-item-link-hover: var(--color-primary);
+    --nav-item-link-hover: var(--color-white);
 }
 
 *, *:before, *:after {
@@ -150,6 +150,8 @@ a:active {
 .nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: var(--color-primary);
 }
 
 .nav .nav-link:hover {
