@@ -626,7 +626,7 @@
   /* Post Advanced
     ============================= */
 
-  .post [tag*="img"] {
+  .post .img {
     width: 100%;
     height: auto;
   }
