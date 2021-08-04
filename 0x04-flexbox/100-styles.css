@@ -626,7 +626,7 @@
   /* Post Advanced
     ============================= */
 
-  .post img {
+  .post [class^="img"] {
     width: 100%;
     height: auto;
   }
